@@ -1,2 +1,3 @@
 # MyCTK
-Learning CTK Plugin 
+Learning for CTK Plugin 
+Have some test demos
