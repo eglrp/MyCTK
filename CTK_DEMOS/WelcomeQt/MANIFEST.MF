@@ -1,0 +1,8 @@
+Plugin-SymbolicName: WelcomeQt
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: 
+Plugin-Description: A plugin for say WelcomeQt
+Plugin-Name: WelcomeQt
+Plugin-Vendor: xx
+Plugin-Version: 1.0.0

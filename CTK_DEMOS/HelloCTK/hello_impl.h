@@ -6,15 +6,16 @@
 
 class ctkPluginContext;
 
-class HelloImpl : public QObject, public HelloService
+class HelloImpl : public QObject, public HelloService, public ByeService
 {
     Q_OBJECT
     Q_INTERFACES(HelloService)
+    Q_INTERFACES(ByeService)
 
 public:
     HelloImpl(ctkPluginContext* context);
     void sayHello() Q_DECL_OVERRIDE;
-
+    void sayBye() Q_DECL_OVERRIDE;
 };
 
 #endif // HELLO_IMPL_H

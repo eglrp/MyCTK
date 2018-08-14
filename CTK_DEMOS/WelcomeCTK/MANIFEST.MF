@@ -1,0 +1,8 @@
+Plugin-SymbolicName: WelcomeCTK
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: 
+Plugin-Description: A plugin for say WelcomeCTK
+Plugin-Name: WelcomeCTK
+Plugin-Vendor: xx
+Plugin-Version: 1.0.0
